@@ -1,0 +1,31 @@
+.background{
+    -fx-background-image: url("img/first.jpg");
+}
+
+.mainBackground{
+    -fx-background-image: url("img/main.jpg");
+}
+
+.statBackgroung{
+    -fx-background-image: url("img/statBcg.jpg");
+}
+
+.conferenceBackground{
+    -fx-background-image: url("img/conference.jpg");
+}
+
+.weightingBackground{
+    -fx-background-image: url("img/introduction.jpg");
+}
+
+.nightBackground{
+    -fx-background-image: url("img/night.jpg");
+}
+
+.dayBackground{
+    -fx-background-image: url("img/day.jpg");
+}
+
+.ring{
+    -fx-background-image: url("img/ring.jpg");
+}

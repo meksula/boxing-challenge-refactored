@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="516.0" prefWidth="759.0" styleClass="background" stylesheets="@../styles.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="boxingchallenge.controller.Creator">
+   <children>
+      <Label layoutX="37.0" layoutY="94.0" prefHeight="92.0" prefWidth="643.0" text="Zrobimy z Ciebie zawodnika! Powiedz tylko coś o sobie:" textFill="#dd1515">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Label>
+      <TextField fx:id="name" layoutX="37.0" layoutY="213.0" prefHeight="21.0" prefWidth="238.0" />
+      <Label layoutX="37.0" layoutY="186.0" prefHeight="16.0" prefWidth="238.0" text="Nazwa zawodnika:" textFill="#da2020">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Label layoutX="37.0" layoutY="258.0" prefHeight="16.0" prefWidth="238.0" text="Narodowość:" textFill="#da2020">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <TextField fx:id="nation" layoutX="37.0" layoutY="279.0" prefHeight="26.0" prefWidth="238.0" />
+      <Button fx:id="ready" layoutX="84.0" layoutY="333.0" mnemonicParsing="false" onAction="#createdAndPlay" text="Gotowy na trening!" />
+   </children>
+</AnchorPane>
