@@ -13,30 +13,29 @@ public class Trainer {
     private AbstractBoxer boxer;
 
     public Trainer(String name, String nation){
-        //tu muszę nadawać nazwę trenerom
         if (name.isEmpty() || nation.isEmpty())
             throw new IllegalArgumentException();
-        else{
+        else {
             this.name = name;
             this.nation = nation;
         }
     }
 
     //AI nie musi mieć trenera, który będzie się konkretnie nazywał
-    public Trainer(){
+    public Trainer() {
         setName("John Smith");
         setNation("USA");
     }
 
     public void help() {
-        if (200 > boxer.getHealth() + healthAbilities)
+        if (200 > (boxer.getHealth() + healthAbilities))
             boxer.setHealth(boxer.getHealth() + healthAbilities);
-        else if (200 < boxer.getHealth() + healthAbilities)
+        else if (200 < (boxer.getHealth() + healthAbilities))
             boxer.setHealth(200);
 
-        if (200 > boxer.getStamina() + staminaAbilities)
+        if (200 > (boxer.getStamina() + staminaAbilities))
             boxer.setStamina(boxer.getHealth() + staminaAbilities);
-        else if (200 < boxer.getStamina() + staminaAbilities)
+        else if (200 < (boxer.getStamina() + staminaAbilities))
             boxer.setStamina(200);
     }
 

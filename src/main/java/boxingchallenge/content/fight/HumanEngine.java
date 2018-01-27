@@ -4,24 +4,30 @@ import boxingchallenge.content.characters.AIBoxer;
 import boxingchallenge.content.characters.AbstractBoxer;
 import boxingchallenge.content.characters.HumanBoxer;
 
-public class Opponent implements FightEngine {
-    private HumanBoxer victim;
-    private AIBoxer striker;
+public class HumanEngine implements FightEngine {
+    private HumanBoxer striker;
+    private AIBoxer victim;
     private Factors factors;
+
+    public HumanEngine(HumanBoxer striker, AIBoxer victim){
+        this.striker = striker;
+        this.victim = victim;
+        setFactors();
+    }
 
     @Override
     public void setStriker(AbstractBoxer striker) {
-        this.striker = (AIBoxer) striker;
+        this.striker = (HumanBoxer) striker;
     }
 
     @Override
     public void setVictim(AbstractBoxer victim) {
-        this.victim = (HumanBoxer) victim;
+        this.victim = (AIBoxer) victim;
     }
 
     @Override
     public void setFactors() {
-        factors = new Factors(striker);
+        factors = new Factors(striker, victim);
     }
 
     @Override
@@ -52,9 +58,10 @@ public class Opponent implements FightEngine {
     public void defaultHelp() {
         striker.setHealth(striker.getHealth() + 10);
         striker.setStamina(striker.getStamina() + 10);
+        System.out.println("Domyślna pomoc");
     }
-    //todo wzór metody
-    private double leftStrightHead() {
+
+    public double leftStrightHead() {
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
         striker.setStamina(striker.getStamina() - 10);
         return dmg = factors.condition(dmg);
@@ -73,7 +80,7 @@ public class Opponent implements FightEngine {
     }
 
     private double rightHookHead(){
-        double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        double dmg = ((striker.getStrenght() / 0.1) + ((striker.getAccurancy() * 0.6 + striker.getQuickness() * 0.4) -60) / 4);
         striker.setStamina(striker.getStamina() - 15);
         return dmg = factors.condition(dmg);
     }
@@ -88,5 +95,17 @@ public class Opponent implements FightEngine {
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
         striker.setStamina(striker.getStamina() - 17);
         return dmg = factors.condition(dmg);
+    }
+
+    public AIBoxer getVictim() {
+        return victim;
+    }
+
+    public HumanBoxer getStriker() {
+        return striker;
+    }
+
+    public Factors getFactors() {
+        return factors;
     }
 }

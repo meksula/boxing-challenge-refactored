@@ -15,7 +15,9 @@ public class Ranking {
     }
 
     public void addBoxer(AbstractBoxer boxer) {
-        boxersRanks.add(boxer);
+        if (!boxersRanks.contains(boxer)) {
+            boxersRanks.add(boxer);
+        }
     }
 
     public void showList() {

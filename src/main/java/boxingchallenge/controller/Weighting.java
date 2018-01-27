@@ -1,5 +1,6 @@
 package boxingchallenge.controller;
 
+import boxingchallenge.content.auxiliary.Draftsman;
 import boxingchallenge.content.characters.HumanBoxer;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -36,9 +37,22 @@ public class Weighting implements Initializable {
     @Autowired
     private HumanBoxer boxer;
 
+    @Autowired
+    private Draftsman draftsman;
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
+        nameHuman.setText(boxer.getName());
+        nationHuman.setText(boxer.getName());
+        weightHuman.setText(String.valueOf(boxer.getWeight()));
+        heightHuman.setText(String.valueOf(boxer.getHeight()));
+        balanceHuman.setText(boxer.getBalance().show());
 
+        nameOpponent.setText(draftsman.getSummoned().getName());
+        nationOpponent.setText(draftsman.getSummoned().getNation());
+        weightOpponent.setText(String.valueOf(draftsman.getSummoned().getWeight()));
+        heightOpponent.setText(String.valueOf(draftsman.getSummoned().getHeight()));
+        ballanceOpponent.setText(String.valueOf(draftsman.getSummoned().getBalance().show()));
     }
 
     @FXML

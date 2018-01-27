@@ -1,0 +1,665 @@
+DEBUG   2018-01-26 20:16:20,763 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:16:20,764 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:16:20,764 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:38:31,892 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:38:31,893 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:38:31,893 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:40:09,321 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:40:09,321 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:40:09,321 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:42:57,374 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:42:57,375 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:42:57,375 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:46:11,214 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:46:11,214 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:46:11,215 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:49:57,149 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:49:57,149 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:49:57,149 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:52:38,960 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:52:38,960 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:52:38,960 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:56:40,915 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:56:40,915 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:56:40,915 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:58:43,607 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:58:43,608 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:58:43,608 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 20:59:42,600 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 20:59:42,600 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 20:59:42,600 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:06:31,069 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:06:31,069 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:06:31,070 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:09:55,791 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:09:55,791 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:09:55,791 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:10:22,615 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:10:22,615 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:10:22,615 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:11:34,646 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:11:34,647 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:11:34,647 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:13:22,413 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:13:22,413 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:13:22,413 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:16:02,949 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:16:02,950 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:16:02,950 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:20:01,757 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:20:01,757 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:20:01,757 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:23:04,348 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:23:04,348 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:23:04,348 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:26:35,046 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:26:35,046 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:26:35,046 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:34:42,233 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:34:42,233 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:34:42,234 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:35:56,533 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:35:56,533 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:35:56,533 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:37:54,593 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:37:54,594 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:37:54,594 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:40:27,016 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:40:27,016 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:40:27,016 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:45:01,263 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:45:01,264 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:45:01,264 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 21:57:08,716 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 21:57:08,716 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 21:57:08,716 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:01:25,312 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:01:25,313 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:01:25,313 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:06:25,585 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:06:25,585 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:06:25,585 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:07:29,954 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:07:29,954 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:07:29,954 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:09:02,483 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:09:02,483 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:09:02,484 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:10:22,093 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:10:22,093 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:10:22,093 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:12:41,025 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:12:41,025 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:12:41,025 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:17:40,745 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:17:40,745 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:17:40,745 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:20:43,284 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:20:43,284 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:20:43,284 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-26 22:27:10,592 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-26 22:27:10,592 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-26 22:27:10,592 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+INFO    2018-01-27 02:42:08,017 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.0
+INFO    2018-01-27 02:47:23,559 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:47:30,362 [main] boxingchallenge.main.BoxingChallengeApplication  - 32.0
+INFO    2018-01-27 02:47:34,027 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:47:37,348 [main] boxingchallenge.main.BoxingChallengeApplication  - 35.0
+INFO    2018-01-27 02:47:42,063 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:48:42,052 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:48:47,965 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:50:11,848 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:50:17,705 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:50:20,959 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:50:24,305 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 02:50:43,405 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.0
+INFO    2018-01-27 02:55:52,397 [main] boxingchallenge.main.BoxingChallengeApplication  - -230.0
+INFO    2018-01-27 02:55:57,939 [main] boxingchallenge.main.BoxingChallengeApplication  - 382.0
+INFO    2018-01-27 02:56:23,127 [main] boxingchallenge.main.BoxingChallengeApplication  - -6.0
+INFO    2018-01-27 02:56:27,805 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.8000000000000003
+INFO    2018-01-27 02:56:32,617 [main] boxingchallenge.main.BoxingChallengeApplication  - -1.6000000000000005
+INFO    2018-01-27 02:56:36,744 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.3999999999999995
+INFO    2018-01-27 02:56:40,347 [main] boxingchallenge.main.BoxingChallengeApplication  - -4.800000000000001
+INFO    2018-01-27 02:56:43,802 [main] boxingchallenge.main.BoxingChallengeApplication  - 14.2
+INFO    2018-01-27 02:56:50,597 [main] boxingchallenge.main.BoxingChallengeApplication  - 30.8
+INFO    2018-01-27 02:57:41,546 [main] boxingchallenge.main.BoxingChallengeApplication  - -1.2000000000000002
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - -3.0
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.6000000000000001
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 13.600000000000001
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 16.6
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 5.4
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - -2.4000000000000004
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - -3.6000000000000005
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.2000000000000002
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.4
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - 3.6000000000000005
+INFO    2018-01-27 02:57:41,548 [main] boxingchallenge.main.BoxingChallengeApplication  - -4.2
+INFO    2018-01-27 03:06:57,274 [main] boxingchallenge.main.BoxingChallengeApplication  - 27.2
+INFO    2018-01-27 03:06:57,276 [main] boxingchallenge.main.BoxingChallengeApplication  - 22.200000000000003
+INFO    2018-01-27 03:06:57,276 [main] boxingchallenge.main.BoxingChallengeApplication  - -3.6000000000000005
+INFO    2018-01-27 03:06:57,276 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.0
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.8000000000000003
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 7.6
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 8.0
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 2.4000000000000004
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 11.2
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 9.4
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.8000000000000003
+INFO    2018-01-27 03:06:57,277 [main] boxingchallenge.main.BoxingChallengeApplication  - -1.8000000000000003
+INFO    2018-01-27 03:10:06,861 [main] boxingchallenge.main.BoxingChallengeApplication  - 13.600000000000001
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - -2.4000000000000004
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 11.8
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - -0.6000000000000001
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 7.800000000000001
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.6000000000000001
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.8000000000000003
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 18.4
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 13.8
+INFO    2018-01-27 03:10:06,864 [main] boxingchallenge.main.BoxingChallengeApplication  - 8.8
+INFO    2018-01-27 03:10:22,988 [main] boxingchallenge.main.BoxingChallengeApplication  - 34.0
+INFO    2018-01-27 03:10:22,989 [main] boxingchallenge.main.BoxingChallengeApplication  - 16.2
+INFO    2018-01-27 03:10:22,989 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.0
+INFO    2018-01-27 03:10:22,989 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.6000000000000001
+INFO    2018-01-27 03:10:22,989 [main] boxingchallenge.main.BoxingChallengeApplication  - 18.0
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.8
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - 17.200000000000003
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - -0.6000000000000001
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - -1.2000000000000002
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.6
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - 3.0
+INFO    2018-01-27 03:10:22,990 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.6000000000000001
+DEBUG   2018-01-27 03:10:30,571 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-27 03:10:30,571 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-27 03:10:30,571 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-27 03:11:38,411 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-27 03:11:38,411 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-27 03:11:38,411 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+DEBUG   2018-01-27 03:18:01,159 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-27 03:18:01,160 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-27 03:18:01,160 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot
+INFO    2018-01-27 03:18:08,780 [main] boxingchallenge.main.BoxingChallengeApplication  - 7.6
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 0.0
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 4.200000000000001
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 8.2
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - -3.0000000000000004
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 16.2
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.0
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 29.8
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 8.8
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.600000000000001
+INFO    2018-01-27 03:18:08,782 [main] boxingchallenge.main.BoxingChallengeApplication  - 16.2
+INFO    2018-01-27 03:18:08,783 [main] boxingchallenge.main.BoxingChallengeApplication  - 20.6
+INFO    2018-01-27 03:18:27,942 [main] boxingchallenge.main.BoxingChallengeApplication  - 16.6
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 1.8000000000000003
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 8.6
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 11.2
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 7.200000000000001
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 27.4
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 5.4
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - -1.8000000000000003
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 10.6
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - -5.4
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 25.6
+INFO    2018-01-27 03:18:27,944 [main] boxingchallenge.main.BoxingChallengeApplication  - 6.4
+INFO    2018-01-27 03:20:51,624 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.8
+INFO    2018-01-27 03:20:51,625 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:20:51,625 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 20.0
+INFO    2018-01-27 03:20:51,625 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 28.0
+INFO    2018-01-27 03:20:51,625 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.600000000000001
+INFO    2018-01-27 03:20:51,625 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 28.4
+INFO    2018-01-27 03:20:51,626 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.800000000000001
+INFO    2018-01-27 03:20:51,626 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 26.8
+INFO    2018-01-27 03:20:51,626 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 21.0
+INFO    2018-01-27 03:20:51,626 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 27.200000000000003
+INFO    2018-01-27 03:20:51,630 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 23.4
+INFO    2018-01-27 03:20:51,630 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 3.0000000000000004
+INFO    2018-01-27 03:20:51,630 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 4.800000000000001
+INFO    2018-01-27 03:20:51,630 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 14.2
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 5.4
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -1.8000000000000003
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 15.4
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 24.2
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 13.0
+INFO    2018-01-27 03:20:51,631 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 2.4
+INFO    2018-01-27 03:24:41,571 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 16.6
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.200000000000001
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.2000000000000002
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 22.8
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.800000000000001
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.4
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.2000000000000002
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.6
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 24.4
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -2.4000000000000004
+INFO    2018-01-27 03:24:41,572 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]8.160000000000002
+INFO    2018-01-27 03:24:41,576 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 6.0
+INFO    2018-01-27 03:24:41,576 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 22.8
+INFO    2018-01-27 03:24:41,576 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -2.4000000000000004
+INFO    2018-01-27 03:24:41,576 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 6.0
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -1.2000000000000002
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 1.8000000000000003
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -3.6
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 10.0
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 9.4
+INFO    2018-01-27 03:24:41,577 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 13.2
+INFO    2018-01-27 03:24:55,371 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 28.6
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 15.8
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 5.4
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.600000000000001
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.0
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.2
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 25.8
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.4
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 31.4
+INFO    2018-01-27 03:24:55,372 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]12.160000000000002
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 2.4
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 14.8
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 8.4
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 29.2
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 9.4
+INFO    2018-01-27 03:24:55,377 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 7.200000000000001
+INFO    2018-01-27 03:24:55,378 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 7.8
+INFO    2018-01-27 03:24:55,378 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 13.8
+INFO    2018-01-27 03:24:55,378 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -1.2000000000000002
+INFO    2018-01-27 03:24:55,378 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: -3.6
+INFO    2018-01-27 03:28:34,259 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.0
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.4
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.0
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.2000000000000002
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.0
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 33.4
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -2.4000000000000004
+INFO    2018-01-27 03:28:34,260 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]11.46
+INFO    2018-01-27 03:28:34,264 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 20.8
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 37.0
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 98.80000000000001
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 111.4
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 132.8
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 45.8
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 26.8
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 95.80000000000001
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 140.60000000000002
+INFO    2018-01-27 03:28:34,265 [main] boxingchallenge.main.BoxingChallengeApplication  - Prawy sierpowy na głowę: 70.60000000000001
+INFO    2018-01-27 03:29:58,421 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.19999999999999973
+INFO    2018-01-27 03:29:58,421 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.8
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.0000000000000004
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 31.200000000000003
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.6000000000000005
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.8000000000000003
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.6
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 21.0
+INFO    2018-01-27 03:29:58,422 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]7.360000000000001
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 121.60000000000001
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.600000000000001
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 132.0
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 37.8
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 59.400000000000006
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 60.60000000000001
+INFO    2018-01-27 03:29:58,427 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -414.00000000000006
+INFO    2018-01-27 03:29:58,428 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -4.200000000000006
+INFO    2018-01-27 03:29:58,428 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.8
+INFO    2018-01-27 03:29:58,428 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 40.8
+INFO    2018-01-27 03:29:58,428 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)]3.2800000000000047
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 9.000000000000002
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 9.4
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.4
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.6000000000000001
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.800000000000001
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 25.0
+INFO    2018-01-27 03:31:03,297 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.4
+INFO    2018-01-27 03:31:03,298 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:31:03,298 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.0
+INFO    2018-01-27 03:31:03,298 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.0
+INFO    2018-01-27 03:31:03,298 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]8.82
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 143.8
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -11.000000000000004
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.8
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 162.20000000000002
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 80.80000000000001
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -15.400000000000006
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.000000000000004
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -63.000000000000014
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.4
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.600000000000001
+INFO    2018-01-27 03:31:03,302 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)]0.9600000000000002
+INFO    2018-01-27 03:32:25,024 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.800000000000001
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 12.0
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 20.8
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 12.4
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.0000000000000004
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.6
+INFO    2018-01-27 03:32:25,025 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]6.580000000000001
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 54.2
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.4
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 59.0
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 59.0
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 111.60000000000001
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 78.4
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 18.6
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -41.400000000000006
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 6.4
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 19.8
+INFO    2018-01-27 03:32:25,030 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)]1.98
+INFO    2018-01-27 03:33:14,170 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 23.2
+INFO    2018-01-27 03:33:14,170 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.8
+INFO    2018-01-27 03:33:14,170 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.4
+INFO    2018-01-27 03:33:14,170 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 12.8
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.4
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.2000000000000002
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 16.6
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.8000000000000003
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:33:14,171 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]10.220000000000002
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 19.8
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 132.0
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -41.400000000000006
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 37.6
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 19.6
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 35.6
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -41.400000000000006
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -21.000000000000004
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 48.8
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -124.20000000000002
+INFO    2018-01-27 03:33:14,176 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 4.88
+INFO    2018-01-27 03:33:49,174 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.4
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.0
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 20.8
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.0
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 2.4
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 54.0
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.0000000000000004
+INFO    2018-01-27 03:33:49,175 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]14.080000000000002
+INFO    2018-01-27 03:33:49,181 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 40.2
+INFO    2018-01-27 03:33:49,181 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.600000000000001
+INFO    2018-01-27 03:33:49,181 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 150.20000000000002
+INFO    2018-01-27 03:33:49,181 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 40.2
+INFO    2018-01-27 03:33:49,181 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -1.8000000000000003
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 30.000000000000004
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.600000000000001
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 59.400000000000006
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -25.6
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 81.00000000000001
+INFO    2018-01-27 03:33:49,182 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 81.00000000000001
+INFO    2018-01-27 03:34:28,293 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.0
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.200000000000001
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.8000000000000003
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.0000000000000004
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.8
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.200000000000001
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 16.0
+INFO    2018-01-27 03:34:28,295 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]7.4
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 121.80000000000003
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 19.8
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.4
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 121.80000000000003
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.4
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 30.000000000000004
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -32.400000000000006
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -0.6000000000000001
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 70.80000000000001
+INFO    2018-01-27 03:34:28,300 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -12.400000000000006
+INFO    2018-01-27 03:34:28,301 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 465.00000000000006
+INFO    2018-01-27 03:34:37,675 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.2
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.2
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 2.6
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.600000000000001
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.6
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.0
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -2.4000000000000004
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.200000000000001
+INFO    2018-01-27 03:34:37,676 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.7999999999999998
+INFO    2018-01-27 03:34:37,677 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)]6.140000000000001
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 132.0
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -21.000000000000004
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.600000000000001
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 51.4
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.8
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -12.400000000000006
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -41.6
+INFO    2018-01-27 03:34:37,681 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -41.400000000000006
+INFO    2018-01-27 03:34:37,682 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 78.4
+INFO    2018-01-27 03:34:37,682 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -0.6000000000000001
+INFO    2018-01-27 03:34:37,682 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 271.4
+INFO    2018-01-27 03:35:15,200 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.8
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 5.4
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -2.4000000000000004
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.8
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 15.4
+INFO    2018-01-27 03:35:15,201 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:35:15,202 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 23.0
+INFO    2018-01-27 03:35:15,202 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.2
+INFO    2018-01-27 03:35:15,202 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:35:15,202 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 110.2
+INFO    2018-01-27 03:35:15,205 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 64.60000000000001
+INFO    2018-01-27 03:35:15,205 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -6.800000000000001
+INFO    2018-01-27 03:35:15,205 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -31.200000000000006
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 70.80000000000001
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 140.0
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 30.000000000000004
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.4
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 91.2
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -34.6
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 708.0000000000001
+INFO    2018-01-27 03:35:15,206 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 1155.0
+INFO    2018-01-27 03:36:27,298 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.0
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.0
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.6
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.200000000000003
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.600000000000001
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 16.6
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.6000000000000001
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.8
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.5999999999999996
+INFO    2018-01-27 03:36:27,299 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 82.8
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 131.78333333333333
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.13333333333333
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -17.333333333333336
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 36.583333333333336
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.783333333333333
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 90.86666666666667
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 147.60000000000002
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 137.41666666666669
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 131.78333333333333
+INFO    2018-01-27 03:36:27,304 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -23.150000000000006
+INFO    2018-01-27 03:36:27,305 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 726.1666666666667
+INFO    2018-01-27 03:36:35,305 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.6000000000000001
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.4
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 26.8
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.600000000000001
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 15.6
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.8000000000000003
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.2
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -7.200000000000001
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.200000000000001
+INFO    2018-01-27 03:36:35,306 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 85.2
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -13.150000000000006
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 36.583333333333336
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 121.41666666666667
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 40.13333333333333
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 51.13333333333333
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -31.333333333333336
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -10.966666666666669
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 60.31666666666666
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 60.31666666666666
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 25.583333333333336
+INFO    2018-01-27 03:36:35,311 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 395.4833333333333
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.2000000000000002
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.2000000000000002
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.8000000000000003
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.0
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 2.4
+INFO    2018-01-27 03:37:03,970 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:37:03,971 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.2
+INFO    2018-01-27 03:37:03,971 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 9.2
+INFO    2018-01-27 03:37:03,971 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.0
+INFO    2018-01-27 03:37:03,971 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 48.8
+INFO    2018-01-27 03:37:03,979 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 129.63064516129032
+INFO    2018-01-27 03:37:03,979 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 64.48870967741935
+INFO    2018-01-27 03:37:03,979 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 95.5241935483871
+INFO    2018-01-27 03:37:03,979 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -30.653225806451616
+INFO    2018-01-27 03:37:03,979 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 109.57741935483871
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -306.53225806451616
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 109.55967741935484
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 117.55967741935484
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 39.47096774193548
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 99.57741935483871
+INFO    2018-01-27 03:37:03,980 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 765.3887096774193
+INFO    2018-01-27 03:37:52,809 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.0
+INFO    2018-01-27 03:37:52,809 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:37:52,809 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 27.200000000000003
+INFO    2018-01-27 03:37:52,809 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 10.600000000000001
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.200000000000001
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.6
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.0
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 17.8
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 26.200000000000003
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.0
+INFO    2018-01-27 03:37:52,810 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 148.4
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -16.6
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 137.9
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 33.900000000000006
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -43.1
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -25.6
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 61.199999999999996
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 62.400000000000006
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -33.3
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 80.4
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 87.4
+INFO    2018-01-27 03:37:52,814 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 463.19999999999993
+INFO    2018-01-27 03:38:10,796 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 13.0
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.4
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 21.4
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 33.8
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -5.4
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 29.6
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 20.0
+INFO    2018-01-27 03:38:10,797 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 147.59999999999997
+INFO    2018-01-27 03:38:10,803 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 30.150000000000002
+INFO    2018-01-27 03:38:10,803 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 112.15000000000002
+INFO    2018-01-27 03:38:10,803 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 19.9
+INFO    2018-01-27 03:38:10,803 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 9.65
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 44.150000000000006
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 50.65
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 1224.0000000000002
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 142.9
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -37.6
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -3.350000000000005
+INFO    2018-01-27 03:38:10,804 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 1633.5500000000004
+INFO    2018-01-27 03:38:18,590 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.6
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.4
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.6
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.0000000000000004
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.0000000000000004
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 5.6
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.8
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 15.4
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 9.4
+INFO    2018-01-27 03:38:18,591 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 61.2
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -0.6000000000000001
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 101.9
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -11.100000000000001
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 101.9
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 86.15
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 91.65
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 84.9
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 44.9
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 81.4
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 60.900000000000006
+INFO    2018-01-27 03:38:18,599 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 653.6999999999999
+INFO    2018-01-27 03:38:40,393 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.200000000000001
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.0
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.0
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -18.000000000000004
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.6
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 31.0
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 3.4
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 4.200000000000001
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 16.6
+INFO    2018-01-27 03:38:40,395 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 76.60000000000001
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 40.4
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 112.15000000000002
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 101.9
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 101.65
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 37.65
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 29.9
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 55.4
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 158.65
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 30.150000000000002
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -0.6000000000000001
+INFO    2018-01-27 03:38:40,400 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 667.8499999999999
+INFO    2018-01-27 03:39:04,647 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -3.0000000000000004
+INFO    2018-01-27 03:39:04,647 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 20.8
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 18.8
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.2
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.2000000000000002
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.2
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 7.800000000000001
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -1.2000000000000002
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.600000000000001
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 8.2
+INFO    2018-01-27 03:39:04,648 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 78.60000000000001
+INFO    2018-01-27 03:39:04,660 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 31.85
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -20.900000000000002
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -27.200000000000003
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 136.35000000000002
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 60.15
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 28.4
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 70.30000000000001
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 151.50000000000003
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 70.30000000000001
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 83.60000000000001
+INFO    2018-01-27 03:39:04,661 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 632.4500000000002
+INFO    2018-01-27 03:39:48,402 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 11.600000000000001
+INFO    2018-01-27 03:39:48,402 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 26.4
+INFO    2018-01-27 03:39:48,402 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 6.0
+INFO    2018-01-27 03:39:48,402 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 1.8000000000000003
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 22.2
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -2.4000000000000004
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 14.8
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: 0.0
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy prosty na głowę: -0.6000000000000001
+INFO    2018-01-27 03:39:48,403 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(0)] : 82.8
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 16.9
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 5.899999999999999
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 100.15
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 86.9
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 34.4
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 106.40000000000002
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 69.4
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -35.6
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: -26.850000000000005
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Lewy sierpowy na głowę: 0.6500000000000004
+INFO    2018-01-27 03:39:48,407 [main] boxingchallenge.main.BoxingChallengeApplication  - Średnia z 10 ciosów [attack(3)] : 420.70000000000005
+DEBUG   2018-01-27 03:40:31,609 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - Project by Karol Meksuła
+INFO    2018-01-27 03:40:31,610 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - 2018
+WARN    2018-01-27 03:40:31,610 [JavaFX-Launcher] boxingchallenge.main.BoxingChallengeApplication  - JavaFX, Spring boot

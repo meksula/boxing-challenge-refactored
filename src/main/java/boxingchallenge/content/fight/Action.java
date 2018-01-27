@@ -3,6 +3,7 @@ package boxingchallenge.content.fight;
 import boxingchallenge.content.auxiliary.Draftsman;
 import boxingchallenge.content.characters.AIBoxer;
 import boxingchallenge.content.characters.HumanBoxer;
+import boxingchallenge.content.characters.Trainer;
 import boxingchallenge.content.fight.logic.AlgorithmAI;
 import boxingchallenge.controller.Fight;
 import javafx.scene.control.Label;
@@ -14,7 +15,7 @@ import org.springframework.stereotype.Component;
 
 import java.util.Random;
 
-/*Metoda init() jest konieczna do wywołania na komponencie*/
+/*Metoda init() is necessary to invoke first*/
 
 @Component
 public class Action {
@@ -26,7 +27,6 @@ public class Action {
     private Rectangle opponentStaminaStrip;
     private VBox hitBox;
     private boolean fightIsOver = false;
-    Random random = new Random();
 
     private FightEngine humanEngine;
     private FightEngine opponentEngine;
@@ -51,15 +51,8 @@ public class Action {
     public void init() {
         opponent = draftsman.getSummoned();
 
-        humanEngine = new Human();
-        humanEngine.setStriker(human);
-        humanEngine.setVictim(opponent);
-        humanEngine.setFactors();
-
-        opponentEngine = new Opponent();
-        opponentEngine.setStriker(opponent);
-        opponentEngine.setVictim(human);
-        opponentEngine.setFactors();
+        humanEngine = new HumanEngine(human, opponent);
+        opponentEngine = new OpponentEngine(opponent, human);
 
         hitBox = new VBox();
         hitBox.setLayoutX(580);
@@ -110,6 +103,16 @@ public class Action {
     }
 
     public void summary(double humanDMG, double opponentDMG) {
+        if (humanDMG < 0) {
+            humanDMG = 0;
+            System.out.println("Udało ci się uniknąć ciosu!");
+        }
+
+        if (opponentDMG < 0){
+            System.out.println("Przeciwnik unika ciosu!");
+            opponentDMG = 0;
+        }
+
         human.setHealth(human.getHealth() - humanDMG);
         opponent.setHealth(opponent.getHealth() - opponentDMG);
         refreshStripes();
@@ -117,6 +120,8 @@ public class Action {
         if (roundCounter > 12 || fightIsOver){
             fight.getAnchor().getChildren().clear();
         }
+        System.out.println("human: "+human.getStamina());
+        System.out.println("opp: "+opponent.getStamina());
     }
 
     public void drawStripes() {

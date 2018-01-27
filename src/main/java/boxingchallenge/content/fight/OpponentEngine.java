@@ -4,24 +4,30 @@ import boxingchallenge.content.characters.AIBoxer;
 import boxingchallenge.content.characters.AbstractBoxer;
 import boxingchallenge.content.characters.HumanBoxer;
 
-public class Human implements FightEngine {
-    private HumanBoxer striker;
-    private AIBoxer victim;
+public class OpponentEngine implements FightEngine {
+    private HumanBoxer victim;
+    private AIBoxer striker;
     private Factors factors;
+
+    public OpponentEngine(AIBoxer striker, HumanBoxer victim){
+        this.striker = striker;
+        this.victim = victim;
+        setFactors();
+    }
 
     @Override
     public void setStriker(AbstractBoxer striker) {
-        this.striker = (HumanBoxer) striker;
+        this.striker = (AIBoxer) striker;
     }
 
     @Override
     public void setVictim(AbstractBoxer victim) {
-        this.victim = (AIBoxer) victim;
+        this.victim = (HumanBoxer) victim;
     }
 
     @Override
     public void setFactors() {
-        factors = new Factors(striker);
+        factors = new Factors(striker, victim);
     }
 
     @Override
@@ -53,47 +59,40 @@ public class Human implements FightEngine {
         striker.setHealth(striker.getHealth() + 10);
         striker.setStamina(striker.getStamina() + 10);
     }
-
     //todo wzór metody
-    public double leftStrightHead() {
+    private double leftStrightHead() {
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 10);
         return dmg = factors.condition(dmg);
     }
 
     private double rightStrightHead() {
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 10);
         return dmg = factors.condition(dmg);
     }
 
     private double leftHookHead(){
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 15);
         return dmg = factors.condition(dmg);
     }
 
     private double rightHookHead(){
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 15);
         return dmg = factors.condition(dmg);
     }
 
     private double leftChinPunch(){
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 17);
         return dmg = factors.condition(dmg);
     }
 
     private double rightChinPunch(){
         double dmg = (striker.getStrenght() / 2) + (striker.getAccurancy() / 2) / 4;
+        striker.setStamina(striker.getStamina() - 17);
         return dmg = factors.condition(dmg);
-    }
-
-    public AIBoxer getVictim() {
-        return victim;
-    }
-
-    public HumanBoxer getStriker() {
-        return striker;
-    }
-
-    public Factors getFactors() {
-        return factors;
     }
 }

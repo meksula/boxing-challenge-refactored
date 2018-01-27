@@ -32,5 +32,6 @@ public class AIBoxer extends AbstractBoxer {
         setWeight(90.0 + random.nextInt(25));
         setHeight(175 + random.nextInt(35));
         setTrainer(defaultTrainer);
+        defaultTrainer.acceptJob(this);
     }
 }

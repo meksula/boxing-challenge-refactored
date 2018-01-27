@@ -7,25 +7,41 @@ import java.util.Random;
 public class Factors {
     private double chance;
     private Random random = new Random();
-    private AbstractBoxer boxer;
+    private AbstractBoxer striker;
+    private AbstractBoxer victim;
 
-    Factors(AbstractBoxer boxer){
-        this.boxer = boxer;
+    private double [] ratio = new double[20];
+
+    Factors(AbstractBoxer striker, AbstractBoxer victim){
+        this.striker = striker;
+        this.victim = victim;
+
+        if (striker.getAccurancy() > victim.getAccurancy()){
+            for (int i = 0; i < ratio.length; i++){
+                ratio[i] = (-5 + i) * 0.1;
+            }
+        } else for (int i = 0; i < ratio.length; i++) {
+            ratio[i] = (-10 + i) * 0.1;
+        }
+
     }
 
     public double condition(double dmg) {
         chance = random.nextInt(100);
 
+        dmg = dmg * ratio[random.nextInt(20)];
+        dmg = dmg - (victim.getHardiness() * 0.1);
+
         if (chance % 10 == 0 && chance < 50)
             return criticalHit(dmg);
 
-        else if (chance % 7 == 0)
+        if (chance % 7 == 0)
             return penetrationHit(dmg);
 
-        else if (chance == 64)
+        if (chance == 64)
             return knockOutHit(dmg);
 
-        else if (happyness())
+        if (happyness())
             return dmg + random.nextInt(30);
 
         else return dmg;
@@ -37,15 +53,15 @@ public class Factors {
     }
 
     private double criticalHit(double dmg) {
-        return dmg + (dmg * 0.50);
+        return dmg + (dmg / 0.50);
     }
 
     private double penetrationHit(double dmg) {
-        return dmg + boxer.getAccurancy();
+        return dmg + striker.getAccurancy();
     }
 
     private double knockOutHit(double dmg) {
-        return dmg * boxer.getStrenght();
+        return dmg * striker.getStrenght();
     }
 }
 
